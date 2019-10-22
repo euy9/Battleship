@@ -14,7 +14,7 @@ var p2Name;
 var p1Board;   // keeps track of ship placement
 var p2Board;
 var p1Score = 24;    // each player's score
-var p2Score = 2;
+var p2Score = 24;
 
 var curPlayer = 1;
 var oppPlayer = 2;
